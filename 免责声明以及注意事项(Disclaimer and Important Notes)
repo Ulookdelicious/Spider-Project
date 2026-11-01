@@ -1,0 +1,19 @@
+中文版：
+1.本项目（spider_taobao_goods）及其中包含的所有代码，仅供个人学习、技术研究和交流使用，严禁用于任何商业用途或非法盈利活动。
+
+2.爬虫抓取的所有数据（包括但不限于商品信息、价格等）版权均归原平台（淘宝）及相关权利人所有。本项目不存储、不拥有、不主张任何数据的所有权。
+
+3.使用者在使用本代码时，必须遵守目标网站的 robots.txt 协议、相关服务条款以及国家法律法规。请务必控制抓取频率，不得对目标网站服务器造成任何恶意攻击或过度负载。
+
+4.任何个人或组织因使用、复制、修改或传播本代码而产生的任何直接或间接的法律责任及后果，均由使用者自行承担，本项目作者概不负责。
+
+
+
+English:
+1.This project (spider_taobao_goods) is for educational and research purposes only. It must not be used for commercial purposes or any illegal activities.
+
+2.All data scraped belongs to the original platforms (Taobao). The author does not claim ownership of any data.
+
+3.Users must comply with the target website's robots.txt, Terms of Service, and local laws. Please set a reasonable scraping interval to avoid overloading the servers.
+
+4.The author is not responsible for any misuse or legal consequences caused by this code.
